@@ -9,4 +9,5 @@ public class BookingMyTrainingApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BookingMyTrainingApplication.class, args);
 	}
+
 }
